@@ -1,3 +1,4 @@
+
 -- Made by samet
 -- Join for high quality UI Commissions
 -- https://discord.gg/VhvTd5HV8d
@@ -2313,7 +2314,7 @@ local Library do
                     ZIndex = 2,
                     BorderSizePixel = 0,
                     BackgroundColor3 = FromRGB(27, 25, 29),
-                    ScrollBarThickness = 2,
+                    ScrollBarThickness = 0,
                     ScrollBarImageColor3 = FromRGB(124, 163, 255),
                     AutomaticCanvasSize = Enum.AutomaticSize.Y,
                     CanvasSize = UDim2New(0, 0, 0, 0),
