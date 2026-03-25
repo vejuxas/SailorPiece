@@ -1,4 +1,4 @@
-﻿-- Made by samet
+-- Made by samet
 -- Join for high quality UI Commissions
 -- https://discord.gg/VhvTd5HV8d
 -- @joestar._3
